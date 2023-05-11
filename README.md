@@ -1,6 +1,3 @@
-<p style="text-align: center;">
-Bu metin ortalanmıştır.
-</p>
 
 <h1>$${\color{orange}Basic \space \color{lightblue} \space \color{orange}Calculator}$$</h1>
 
