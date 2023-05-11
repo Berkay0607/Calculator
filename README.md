@@ -4,4 +4,5 @@
 <h1 style="color:purple;">Hello World</h1>
 
 
-<span style="color:red">Bu başlık kırmızı renkte görünecek</span>
+var message = "Merhaba, Dünya!";
+console.log(message);
