@@ -1,7 +1,7 @@
 
 <h1>$${\color{orange}Basic \space \color{lightblue} \space \color{orange}Calculator}$$</h1>
 
-<p><strong>$${A basic \space and \space simple \space Colored \space Calculator.This \space repo \space made \space with \space only \space html,css \space and \space js.}$$</strong></p>
+<p><strong>$${A \spacebasic \space and \space simple \space Colored \space Calculator.This \space repo \space made \space with \space only \space html,css \space and \space js.}$$</strong></p>
 
 
 
