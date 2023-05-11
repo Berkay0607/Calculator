@@ -1,5 +1,5 @@
 
-<h1>$${\color{orange}Basic \space \color{lightblue} \space \color{orange}Calculator}$$</h1>
+<h1>{\color{orange}Basic \space \color{lightblue} \space \color{orange}Calculator}</h1>
 
 <center><strong>A basic and simple Colored Calculator.This repo made with only html,css and js.</strong>
 
