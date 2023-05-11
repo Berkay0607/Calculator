@@ -4,5 +4,5 @@
 
 
 
-$${\color{orange}Basic \space \color{orange}To \space \color{orange}Calculator}$$
+<h1>$${\color{orange}Basic \space \color{orange}To \space \color{orange}Calculator}$$</h1>
 a
