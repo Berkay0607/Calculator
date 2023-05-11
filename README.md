@@ -1,5 +1,5 @@
 # Calculator
-<h1>$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$</h1>
+<h1>$${\color{red}Basic \space \color{lightblue} \space \color{orange}Calculator}$$</h1>
 
 <strong>A basic and simple Colored Calculator.This repo made with only html,css and js.</strong>
 
